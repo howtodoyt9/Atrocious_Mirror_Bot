@@ -108,9 +108,9 @@ def get_progress_bar_string(status):
     p = 0 if total == 0 else round(completed * 100 / total)
     p = min(max(p, 0), 100)
     cFull = p // 8
-    p_str = '✅' * cFull
+    p_str = '🟢' * cFull
     p_str += '☑' * (10 - cFull)
-    p_str = f"[ {p_str} ]✳️ P:"
+    p_str = f"[ {p_str} ]⚪️ P:"
     return p_str
 
 def get_readable_message():
