@@ -22,7 +22,7 @@ from bot.helper.telegram_helper import button_build
 from .modules import authorize, list, cancel_mirror, mirror_status, mirror, clone, watch, shell, eval, delete, speedtest, count, leech_settings, search
 
 
-Bot_Photo = "https://telegra.ph/file/c06d92681208824918821.jpg"
+Bot_Photo = "https://telegra.ph/file/e183c440fa21cc3866d1f.png"
 
 def start(update, context):
     args = context.args
@@ -79,18 +79,18 @@ def start(update, context):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="☯️ Cloud Group",
-                                url="https://t.me/+WKZqyWNHpLViMmI1",
+                                text="☯️ Mirror Leech Group",
+                                url="https://t.me/htdmirrorleechgp",
                             ),
                             InlineKeyboardButton(
-                                text="✳ Find More",
-                                url="https://github.com/AL-Noman21",
+                                text="✳ Tutorial",
+                                url="https://youtu.be/fuR3k1EkwI4",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🕎 Atrocious Bot Owner",
-                                url="https://t.me/smexynos7870",
+                                text="🕎 HTD Bot Owner",
+                                url="https://t.me/howtodoyt",
                             ),
                         ],
                     ],
@@ -116,9 +116,9 @@ I can mirror all your links to Google drive. But in pm or unauthorized group you
 For help and commands press /help .
 """
 
-buttons = [[InlineKeyboardButton(text="☸ Cloud Drive Group", url="https://t.me/+WKZqyWNHpLViMmI1"),],
+buttons = [[InlineKeyboardButton(text="☸ Mirror Leech Group", url="https://t.me/htdmirrorleechgp"),],
 
-          [InlineKeyboardButton(text="✅ Add me in your group", url="t.me/Atrocious_Mirror_Bot?startgroup=true",)],]
+          [InlineKeyboardButton(text="✅ Add me in your group", url="t.me/htdyt_bot?startgroup=true",)],]
 
 
 def stats(update, context):
