@@ -106,7 +106,7 @@ def start(update, context):
 
 PM_START_TEXT = """
 Hello {}, I'm {}
-I can mirror all your links to Google drive. But in pm or unauthorized group you can use all telegram upload tools. If you want to upload in Google Drive you need to join Atrocious Cloud Drive.
+I can mirror all your links to Google drive. But in pm or unauthorized group you can use all telegram upload tools. If you want to upload in Google Drive you need to join HTD Mirror Leech Group.
 For commands and help press /help .
 """
 
