@@ -310,15 +310,15 @@ try:
         raise KeyError
 except KeyError:
     BUTTON_FOUR_NAME = "👨‍👩‍👦‍👦 Group"
-    BUTTON_FOUR_URL = "https://t.me/+WKZqyWNHpLViMmI1"
+    BUTTON_FOUR_URL = "https://t.me/htdmirrorleechgp"
 try:
     BUTTON_FIVE_NAME = getConfig('BUTTON_FIVE_NAME')
     BUTTON_FIVE_URL = getConfig('BUTTON_FIVE_URL')
     if len(BUTTON_FIVE_NAME) == 0 or len(BUTTON_FIVE_URL) == 0:
         raise KeyError
 except KeyError:
-    BUTTON_FIVE_NAME = "🏠 Repo"
-    BUTTON_FIVE_URL = "https://github.com/AL-Noman21/Atrocious_Mirror_Bot"
+    BUTTON_FIVE_NAME = "🏠 Tutorial"
+    BUTTON_FIVE_URL = "https://youtu.be/fuR3k1EkwI4"
 try:
     BUTTON_SIX_NAME = getConfig('BUTTON_SIX_NAME')
     BUTTON_SIX_URL = getConfig('BUTTON_SIX_URL')
