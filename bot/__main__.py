@@ -111,8 +111,8 @@ For commands and help press /help .
 """
 
 GROUP_START_TEXT = """
-Hello, I'm Atrocious Mirror Bot.
-I can mirror all your links to Google drive. But in pm or unauthorized group you can use all telegram upload tools. If you want to upload in Google Drive you need to join Atrocious Cloud Drive.
+Hello, I'm HTD Mirror Bot.
+I can mirror all your links to Google drive. But in pm or unauthorized group you can use all telegram upload tools. If you want to upload in Google Drive you need to join HTD Mirror Leech Group.
 For help and commands press /help .
 """
 
